@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 [Deploying upgradeable contracts with ERC2535 Diamond Standard](https://celo.academy/t/a-guide-to-building-and-deploying-upgradeable-contracts-on-celo-with-diamond-standard/152/)
 
+[A simple implementation for the Multichain native token standard](https://github.com/polytope-labs/multichain-native-tokens)
+
 [Cheap contract deployment at scale with clones proxy](https://celo.academy/t/using-clones-to-build-and-cheaply-deploy-contracts-on-celo-at-scale/153/)
 
 [Extending ERC2535 contracts to add support for rollback deployments](https://dev.to/nuel_ikwuoma/a-guide-to-extending-erc2535-diamonds-37a4)
